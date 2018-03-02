@@ -1,0 +1,29 @@
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+body {
+	font-family: 'Devonshire', cursive;
+	padding-top: 5rem; 
+	
+    /* The image used */
+    background-image: url("fondo.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {
+	opacity: 0.8;
+}
+
+.contacto {
+	 background-color: #FF0000;
+	 opacity: 0.8;
+}
